@@ -1,5 +1,3 @@
-Here's a README for the `age-calculator` repository, specifically for the `age calculator (precise).py` script:
-
 # Age Calculator
 
 A simple script that calculates the time you've lived for.
