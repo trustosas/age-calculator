@@ -51,5 +51,3 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## Author
 
 - GitHub: [trustosas](https://github.com/trustosas)
-
-Feel free to contribute to this project by submitting issues or pull requests. Enjoy calculating the precise time you've lived for!
